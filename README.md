@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taimaaaa" alt="taimaaaa" /></a> </p>
 
-- 🔭 I’m currently working on [Predicting Product Sales](https://github.com/Taimaaaa/Prediction-of-Product-Sales/blob/main/Prediction_of_product_sales.ipynb)
+- 🔭 I’m currently working on [CHhicago Crime Data](https://github.com/Taimaaaa/Chicago-Crime-Data/tree/main)
 
 - 📫 How to reach me **taimanasser2989@gmail.com**
 
